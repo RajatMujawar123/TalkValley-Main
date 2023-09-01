@@ -1,0 +1,13 @@
+.nav{
+    background-color: #72A0C1;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 60px;
+}
+.none{
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+}
